@@ -1,0 +1,2 @@
+# SchoolPageFull
+Fullstack school page
